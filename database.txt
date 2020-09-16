@@ -1,0 +1,1 @@
+if u want to count the number of row in a table, u use count (*).,updateable needs BCNF and Read-only does not need (!)BCNF.,
